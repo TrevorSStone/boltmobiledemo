@@ -1,2 +1,2 @@
 # boltmobiledemo
-Demo project to show how to use bot on mobile
+Simple go project to demo what a wrapper for bolt to be used on mobile could look like
